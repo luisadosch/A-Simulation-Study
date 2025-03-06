@@ -1,4 +1,4 @@
-### Project 4: Simulation Study on an Ice Cream Shop  
+### Project: Simulation Study on an Ice Cream Shop  
 
 #### 📝 Description  
 Conducted a simulation study to optimize the throughput of an ice cream shop.  
